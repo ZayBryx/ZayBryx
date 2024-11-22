@@ -54,5 +54,9 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="typescript" width="40" height="40" />
   </a>
+
+  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/insomnia/insomnia-original-wordmark.svg" alt="typescript" width="40" height="40" />
+  </a>
 </p>
 
